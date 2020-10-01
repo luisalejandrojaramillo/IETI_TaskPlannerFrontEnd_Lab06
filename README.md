@@ -1,3 +1,16 @@
+# IETI_TaskPlannerAPI_FrontEnd_Lab06
+
+## Author
+Luis Alejandro Jaramillo R.
+
+ ## Codigo de Honor
+[Txt](/CoHonor.txt)
+
+## License
+[MIT License ](/LICENSE)
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
